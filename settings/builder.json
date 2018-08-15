@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "64659e6c-c98d-4fbf-bfca-c193d7337e96",
+  "title": "FlappyBird",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx5e49bbc4119de2ab",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "f01292bf-3958-42",
+  "zipCompressJs": true
+}
